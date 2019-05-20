@@ -1,0 +1,2 @@
+"ts"	"user"	"platform"	"version"	"health"
+"1"	2019-05-20 18:17:22	"hpourzand"	"x86_64-apple-darwin13.4.0"	"3.3.3"	"0"
